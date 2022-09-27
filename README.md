@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently pursuing my master’s in Computer Science and Engineering at Indian Institute of Science (IISc), Bengaluru. I’ve been working as a graduate student researcher at Stoch LAB since Jan-2021. I completed my bachelor’s degree from National Institute of Technology (NITK), Surathkal and before joining master’s I worked at Oracle as developer.
+I work as a Member of Technical Staff at Oracle Cloud Infrastructure(OCI). At OCI my main focus is on developing AI cloud services in the domain of Language and Speech. I completed my master’s in Computer Science and Engineering at Indian Institute of Science (IISc), Bengaluru and also worked as a graduate student researcher at Stoch LAB. I finished my bachelor’s degree from National Institute of Technology (NITK), Surathkal.
 
 My research work mainly involves developing efficient machine learning algorithms to solve interesting problems in natural language/text analysis and robotics.
 

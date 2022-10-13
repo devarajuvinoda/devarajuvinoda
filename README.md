@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/devarajuvinoda/devarajuvinoda.github.io/blob/master/images/banner_dev.png)](https://github.com/devarajuvinoda)
+[![MasterHead](https://github.com/devarajuvinoda/devarajuvinoda.github.io/blob/master/assets/img/banner_dev.png)](https://github.com/devarajuvinoda)
 
 <!--
 **devarajuvinoda/devarajuvinoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as a Member of Technical Staff at Oracle Cloud Infrastructure(OCI). At OCI my main focus is on developing AI cloud services in the domain of Language and Speech. I completed my master’s in Computer Science and Engineering at Indian Institute of Science (IISc), Bengaluru and also worked as a graduate student researcher at Stoch LAB. I finished my bachelor’s degree from National Institute of Technology (NITK), Surathkal.
+Currently I'm working on my own startup, building next gen AI powered news application. Before this, I was a Member of the Technical Staff at Oracle Cloud Infrastructure (OCI), where I was part of the Speech AI team. I completed my master’s in Computer Science and Engineering at Indian Institute of Science (IISc), Bengaluru and also worked as a graduate student researcher at Stoch LAB. I finished my bachelor’s degree from National Institute of Technology (NITK), Surathkal.
 
 My research work mainly involves developing efficient machine learning algorithms to solve interesting problems in natural language/text analysis and robotics.
 
